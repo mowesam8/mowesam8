@@ -15,7 +15,8 @@
 ### `whoami`
 
 - **Name:** Mohamed Wesam
-- **Role:** Flutter Developer & Student
+- **Role:** Flutter Developer
+- **Education:** B.Sc. in Electronics & Communication Engineering, Mansoura University
 - **Location:** Egypt 🇪🇬
 - **Focus:**
   - Developing cross-platform mobile applications using Flutter & Dart
