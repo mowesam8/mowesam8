@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Wesam</h1>
-<h3 align="center">Flutter Developer & Electronics Engineering Student 🇪🇬</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedwesam8">
